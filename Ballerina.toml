@@ -1,2 +1,2 @@
 [workspace]
-packages = ["witest7", "svc"]
+packages = ["witest7", "svc", "automation2"]
