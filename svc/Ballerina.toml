@@ -1,0 +1,9 @@
+[package]
+org = "kajendran"
+name = "svc"
+version = "0.1.0"
+distribution = "2201.13.1"
+title = "svc"
+
+[build-options]
+sticky = true

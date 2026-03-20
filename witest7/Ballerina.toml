@@ -1,0 +1,9 @@
+[package]
+org = "kajendranalagaratnam"
+name = "witest7"
+version = "0.1.0"
+distribution = "2201.13.1"
+title = "witest7"
+
+[build-options]
+sticky = true

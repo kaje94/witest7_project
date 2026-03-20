@@ -1,0 +1,2 @@
+[workspace]
+packages = ["witest7", "svc"]
